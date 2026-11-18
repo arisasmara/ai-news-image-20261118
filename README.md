@@ -1,5 +1,9 @@
 # One image of 18 November 2026
 
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/arisasmara/ai-news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/arisasmara/ai-news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
 Entry for the make.fun bounty **news-image-20261118** — "Sum up 18 November's
 world news in one image". The program (`main.ts`) copies the pre-rendered
 image `entry.png` to `/output/entry.png`, byte for byte. No network, no
@@ -7,7 +11,7 @@ randomness: two runs write identical bytes.
 
 ## What the image shows
 
-A flat editorial news montage (1024×1024, PNG, 293,430 bytes), deep teal-navy
+A flat editorial news montage (1024×1024, JPEG, 641,707 bytes), deep teal-navy
 with amber accents and white text. A banner names the day — **18 NOVEMBER
 2026** — then one hero panel and a 2×2 grid sum up the day's five most
 consequential stories:
